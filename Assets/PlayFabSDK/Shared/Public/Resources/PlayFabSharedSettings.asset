@@ -15,7 +15,7 @@ MonoBehaviour:
   TitleId: E5011
   DeveloperSecretKey: 7SNDFBBJXA69OODUTJS58J9NI1QT4ST447U8HMEQXGTWP6O6PR
   ProductionEnvironmentUrl: 
-  RequestType: 0
+  RequestType: 2
   DisableDeviceInfo: 0
   DisableFocusTimeCollection: 0
   RequestTimeout: 2000
