@@ -1,0 +1,96 @@
+{
+  "CatalogVersion": "main_v1.0",
+  "Catalog": [
+    {
+      "ItemId": "potion_health_id",
+      "ItemClass": "Potions",
+      "CatalogVersion": "main_v1.0",
+      "DisplayName": "Health potion",
+      "Description": "Let increase some HP",
+      "VirtualCurrencyPrices": {
+        "SC": 100
+      },
+      "RealCurrencyPrices": {},
+      "Tags": [
+        "potion",
+        "health"
+      ],
+      "CustomData": null,
+      "Consumable": {
+        "UsageCount": 1,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": true,
+      "IsStackable": false,
+      "IsTradable": true,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": true,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
+    },
+    {
+      "ItemId": "potion_mana_id",
+      "ItemClass": "Potions",
+      "CatalogVersion": "main_v1.0",
+      "DisplayName": "Mana potion",
+      "Description": "Let increase some mana",
+      "VirtualCurrencyPrices": {
+        "SC": 100
+      },
+      "RealCurrencyPrices": {},
+      "Tags": [
+        "potion",
+        "mana"
+      ],
+      "CustomData": null,
+      "Consumable": {
+        "UsageCount": 1,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": true,
+      "IsStackable": false,
+      "IsTradable": true,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": true,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
+    },
+    {
+      "ItemId": "axe_stone_id",
+      "ItemClass": "Weapons",
+      "CatalogVersion": "main_v1.0",
+      "DisplayName": "Stone axe",
+      "Description": "Axe for wood extraction",
+      "VirtualCurrencyPrices": {
+        "SC": 300
+      },
+      "RealCurrencyPrices": {},
+      "Tags": [
+        "axe",
+        "weapon"
+      ],
+      "CustomData": null,
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": true,
+      "IsStackable": false,
+      "IsTradable": true,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": true,
+      "InitialLimitedEditionCount": 1,
+      "ActivatedMembership": null
+    }
+  ],
+  "DropTables": []
+}
